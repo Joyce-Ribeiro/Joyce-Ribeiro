@@ -18,4 +18,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyce-Ribeiro&layout=donut)]([https://github.com/anuraghazra](https://github.com/Joyce-Ribeiro)https://github.com/Joyce-Ribeiro/github-readme-stats)
 
 
-![Snake animation](https://github.com/Joyce-Ribeiro/Joyce-Ribeiro/blob/output/github-contribution-grid-snake-sgv)
+![Snake animation](https://github.com/Joyce-Ribeiro/Joyce-Ribeiro/blob/output/github-contribution-grid-snake.sgv)
