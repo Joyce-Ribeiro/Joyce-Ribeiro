@@ -15,7 +15,7 @@
 
 
 ![Joyce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joyce-Ribeiro&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyce-Ribeiro&layout=donut=dark)]([https://github.com/anuraghazra](https://github.com/Joyce-Ribeiro)https://github.com/Joyce-Ribeiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyce-Ribeiro&layout=donut&theme=tokyonight)](https://github.com/Joyce-Ribeiro)
 
 
 ![snake gif](https://github.com/Joyce-Ribeiro/Joyce-Ribeiro/blob/output/github-contribution-grid-snake.svg)
