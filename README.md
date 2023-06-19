@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá Eu Sou Joyce Ribeiro Xavier 
 
-<!--
-**Joyce-Ribeiro/Joyce-Ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Atualmente estudando na Universidade Federal da Paraíba
+- 🎓 Tecnica de Informatica pelo Instituto Federal da Paraíba
+- 📖 Estudando JavaScript
+- 😄 Pronomes: Ela/Dela
 
-Here are some ideas to get you started:
+- 📚 Currently studying at UFPB
+- 🎓 Cumputer Technician by IFPB
+- 📖 Studying JavaScript
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-xavier-406421218)
+<a href = "mailto:joyribeirogxavier@gmail.com" target=" blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
+
+![Joyce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joyce-Ribeiro&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyce-Ribeiro&layout=donut)]([https://github.com/anuraghazra](https://github.com/Joyce-Ribeiro)https://github.com/Joyce-Ribeiro/github-readme-stats)
