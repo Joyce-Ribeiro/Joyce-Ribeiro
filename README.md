@@ -2,7 +2,7 @@
 
 **Engenharia de Software · Machine Learning · Bioinformática**
 
-Graduanda em Ciência da Computação na Universidade Federal da Paraíba (UFPB) e técnica em Informática pelo IFPB. Tenho experiência em desenvolvimento backend no setor financeiro (Python, microsserviços, pipelines de dados e AWS) e pesquiso aprendizado de máquina aplicado a sinais neurais e bioinformática.
+Bacharela em Ciência da Computação pela Universidade Federal da Paraíba (UFPB, 2026) e técnica em Informática pelo IFPB. Tenho experiência em desenvolvimento backend no setor financeiro (Python, microsserviços, pipelines de dados e AWS) e pesquiso aprendizado de máquina aplicado a sinais neurais e bioinformática.
 
 - 🧠 Pesquisadora no LEMCOG/UFPB: decodificação de LFP hipocampal com machine learning
 - 🧬 Diretora de Bioinformática na TAIL, Liga Acadêmica de Tecnologia e Inteligência Artificial (UFPB)
