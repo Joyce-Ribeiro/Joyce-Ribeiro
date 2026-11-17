@@ -13,7 +13,6 @@ Graduanda em Ciência da Computação na Universidade Federal da Paraíba (UFPB)
 | Projeto | O que é | Stack |
 |---|---|---|
 | [TCC-lfp-pattern-discover](https://github.com/Joyce-Ribeiro/TCC-lfp-pattern-discover) | Classifica o nível de similaridade de objetos (25/50/75%) a partir do LFP hipocampal de ratos: 105 features espectrais (Welch, wavelet, PAC teta-gama), validação Leave-One-Rat-Out e interpretabilidade com SHAP | Python, scikit-learn, XGBoost, SciPy |
-| [replay_AI_Project](https://github.com/Joyce-Ribeiro/replay_AI_Project) | Análise de gravações Neuropixels (NWB) do hipocampo (CA1) e córtex entorrinal, com binning de spikes e redes bayesianas | Python, pandas, NumPy |
 
 #### 🛠️ Tecnologias
 
